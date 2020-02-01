@@ -1,2 +1,2 @@
 # GPA-Calculator
- A simple python program using objects and classes that computes your gpa based on your grades and Course credits.
+ A simple python program that computes your gpa based on your grades and Course credits.
